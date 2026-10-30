@@ -75,15 +75,13 @@ Windows/ # Ransomware hides here
 | [QUICKSTART.md](QUICKSTART.md) | Fast setup and solution summaries |
 | [SETUP.md](SETUP.md) | Complete instructor setup guide |
 | [STUDENT_GUIDE.md](STUDENT_GUIDE.md) | Detailed student walkthrough |
-| [LICENSE](LICENSE) | MIT License |
+
 
 ## Author
 
 Created for educational cybersecurity training.
 
-## License
 
-MIT License - See [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
