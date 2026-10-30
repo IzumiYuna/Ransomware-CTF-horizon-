@@ -1,0 +1,14 @@
+
+Virtual machines
+*.ova
+*.vdi
+*.vmdk
+*.iso
+
+Keys (sensitive)
+recovery-key.xml
+private-key.xml
+
+Windows
+Thumbs.db
+desktop.ini
