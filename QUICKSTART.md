@@ -114,4 +114,5 @@ Check ADS	Get-Item "filename" -Stream *
 Extract from ADS	Get-Content "file" -Stream streamname > output
 Extract ZIP	Expand-Archive -Path "zipfile" -DestinationPath "folder"
 Search text	Select-String -Pattern "text" -Path "file"
-See SETUP.md and STUDENT_GUIDE.md for complete details.
+
+## See SETUP.md and STUDENT_GUIDE.md for complete details.
